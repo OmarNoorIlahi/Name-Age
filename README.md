@@ -3,13 +3,13 @@
 
 - Overview 
 - Methods 
-- HTML & PHP 
-- CSS 
-- Java Script 
-- XAMPP 
+  - HTML & PHP 
+  - CSS 
+  - Java Script 
+  - XAMPP 
 - Features 
 - Output 
-- Live Demo
+- Live Demo 
 
 ---
 
