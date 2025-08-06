@@ -1,15 +1,15 @@
 # Name&Age Web 
 # Table of Contents
 
-- Overview 
-- Methods 
-  - HTML & PHP 
-  - CSS 
-  - Java Script 
-  - XAMPP 
-- Features 
-- Output 
-- Live Demo 
+- [Overview](#overview)
+- [Methods](#methods)
+  - [HTML & PHP](#html--php)
+  - [CSS](#css)
+  - [Java Script](#java-script)
+  - [XAMPP](#xampp)
+- [Features](#features)
+- [Output](#output)
+- [Live Demo](#live-demo)
 
 ---
 
